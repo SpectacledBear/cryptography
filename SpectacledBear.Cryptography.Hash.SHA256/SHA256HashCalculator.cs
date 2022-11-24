@@ -17,7 +17,7 @@ public class SHA256HashCalculator : IHashCalculator
 
         var hashValues = sha256.ComputeHash(stream);
 
-        var hashValue = string.Join("", hashValues.Select(b => b.ToString("X2"))).ToLower();
+        var hashValue = string.Join("", hashValues.Select(b => b.ToString("x2")));
         
         return hashValue;
     }
