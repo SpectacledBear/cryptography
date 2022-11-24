@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectacledBear.Cryptography.Hash", "SpectacledBear.Cryptography.Hash\SpectacledBear.Cryptography.Hash.csproj", "{8673F734-1FB0-42D2-BFF5-F8B9D188846E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectacledBear.Cryptography.Hash.Tests", "SpectacledBear.Cryptography.Hash.Tests\SpectacledBear.Cryptography.Hash.Tests.csproj", "{9EF5D3AA-24C5-4C2B-AA7E-BE2876A2D65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectacledBear.Cryptography.Hash.SHA256", "SpectacledBear.Cryptography.Hash.SHA256\SpectacledBear.Cryptography.Hash.SHA256.csproj", "{AEF5FF0B-4C95-4820-9767-215CC9050F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8673F734-1FB0-42D2-BFF5-F8B9D188846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8673F734-1FB0-42D2-BFF5-F8B9D188846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8673F734-1FB0-42D2-BFF5-F8B9D188846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8673F734-1FB0-42D2-BFF5-F8B9D188846E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF5D3AA-24C5-4C2B-AA7E-BE2876A2D65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF5D3AA-24C5-4C2B-AA7E-BE2876A2D65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF5D3AA-24C5-4C2B-AA7E-BE2876A2D65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF5D3AA-24C5-4C2B-AA7E-BE2876A2D65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF5FF0B-4C95-4820-9767-215CC9050F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5FF0B-4C95-4820-9767-215CC9050F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5FF0B-4C95-4820-9767-215CC9050F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5FF0B-4C95-4820-9767-215CC9050F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
