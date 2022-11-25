@@ -21,10 +21,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Resources" />
-    </ItemGroup>
-
-    <ItemGroup>
       <None Update="square-16x16.jpg">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
