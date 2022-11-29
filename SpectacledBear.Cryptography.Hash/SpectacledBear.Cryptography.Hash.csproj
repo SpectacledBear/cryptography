@@ -5,6 +5,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Hash Algorithm Core Library</Title>
+        <Authors>Kyle Lewis &lt;thekyle@gmail.com&gt;</Authors>
+        <RepositoryUrl>https://github.com/SpectacledBear/cryptography</RepositoryUrl>
+        <Description>Support for other basic algorithmic hash libraries.</Description>
     </PropertyGroup>
 
 </Project>

@@ -5,6 +5,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>SHA256 Hash Algorithm Library</Title>
+        <RepositoryUrl>https://github.com/SpectacledBear/cryptography</RepositoryUrl>
+        <Authors>Kyle Lewis &lt;thekyle@gmail.com&gt;</Authors>
+        <Description>Basic SHA256 hash algorithm library.</Description>
     </PropertyGroup>
 
     <ItemGroup>
